@@ -18,7 +18,6 @@ module.exports = {
     // 1. Criar Pedido (POST) [cite: 228]
     async createOrder(req, res) {
         try {
-            // Transformação dos dados (De Português -> Inglês) 
             const orderData = mapOrderData(req.body);
 
             const newOrder = new Order(orderData);
