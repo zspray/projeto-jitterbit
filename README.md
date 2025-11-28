@@ -63,7 +63,7 @@ Método: POST
 
 Body (JSON):
 
-```JSON
+JSON
 
 {
     "numeroPedido": "v10089015vdb-01",
