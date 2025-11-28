@@ -128,6 +128,6 @@ src/
 ├── routes/       # Definição das rotas da API
 └── app.js        # Configuração principal do Express
 server.js         # Ponto de entrada da aplicação
-
+`
 ✒️ Autor
 Desenvolvido por Marcos Bandeira (https://www.linkedin.com/in/marcos-bandeira-9a2652212/)
