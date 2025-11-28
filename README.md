@@ -34,20 +34,19 @@ A aplicação recebe dados de pedidos em português, realiza a transformação d
 
 2. **Instale as dependências:**
 
-    Bash
+   ``` Bash
 
     npm install
 
 3. **Configure as Variáveis de Ambiente: Crie um arquivo .env na raiz do projeto e defina suas configurações:**
 
-    Snippet de código
-
+    ```Snippet de código
     PORT=3000
     MONGO_URI=mongodb://localhost:27017/jitterbit_db
+    
 4. **Inicie o servidor:**
 
-    Bash
-
+    ``` Bash
     npm start
     # Ou para desenvolvimento (se tiver nodemon):
     # npm run dev
