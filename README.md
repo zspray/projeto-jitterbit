@@ -43,7 +43,7 @@ A aplicação recebe dados de pedidos em português, realiza a transformação d
     ```Snippet de código
     PORT=3000
     MONGO_URI=mongodb://localhost:27017/jitterbit_db
-    
+
 4. **Inicie o servidor:**
 
     ``` Bash
@@ -63,7 +63,7 @@ Método: POST
 
 Body (JSON):
 
-JSON
+```JSON
 
 {
     "numeroPedido": "v10089015vdb-01",
