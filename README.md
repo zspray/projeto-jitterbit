@@ -6,7 +6,7 @@ A aplicação recebe dados de pedidos em português, realiza a transformação d
 
 ## 📋 Funcionalidades
 
-- **Criação de Pedidos (POST):** Recebe um JSON com chaves em português (`numeroPedido`, `valorTotal`), mapeia para o formato do banco (`orderId`, `value`) e salva.
+- **Criação de Pedidos (POST):** Recebe um JSON com chaves(`numeroPedido`, `valorTotal`), mapeia para o formato do banco (`orderId`, `value`) e salva.
 - **Leitura de Pedidos (GET):** Busca pedidos pelo ID personalizado ou lista todos os registros.
 - **Atualização (PUT):** Permite editar dados de um pedido existente.
 - **Exclusão (DELETE):** Remove pedidos do banco de dados.
