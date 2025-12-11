@@ -29,8 +29,7 @@ A aplicação recebe dados de pedidos em português, realiza a transformação d
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-   cd NOME-DO-REPO
+  
 
 2. **Instale as dependências:**
 
